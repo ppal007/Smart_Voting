@@ -14,6 +14,8 @@
 
 ## Admin Panel
 (https://veto.news-t24.com)
+Admin Email : admin@gmail.com
+Password : admin
 
 
 
