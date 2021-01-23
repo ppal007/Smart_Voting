@@ -13,9 +13,10 @@
 * No one will be able to view the votes given by the user.
 
 ## Admin Panel
-(https://veto.news-t24.com)
-Admin Email : admin@gmail.com
-Password : admin
+https://veto.news-t24.com
+
+* Admin Email : admin@gmail.com
+* Password : admin
 
 
 
