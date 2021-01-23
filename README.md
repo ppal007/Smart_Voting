@@ -12,6 +12,9 @@
 * After the end of the voting time, all users will be able to view the results.
 * No one will be able to view the votes given by the user.
 
+## Admin Panel
+(https://veto.news-t24.com)
+
 
 
 ## Developed By
