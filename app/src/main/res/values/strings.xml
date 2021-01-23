@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartVoting</string>
+    <string name="please_wait">Please Wait…</string>
+
+    <string-array name="candidate_position_array">
+        <item>Precedent</item>
+        <item>Vice Precedent</item>
+        <item>Secretary</item>
+    </string-array>
+</resources>
