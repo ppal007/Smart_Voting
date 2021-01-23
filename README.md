@@ -1,4 +1,4 @@
-# Smart_Voting
+# Smart Voting System
 
 ## A smart voting platform where users will be able to vote using the mobile fingerprint sensor.
 
@@ -15,5 +15,5 @@
 
 
 ## Developed By
-Prodip Pal.
+  Prodip Pal.
 ## Project X Ltd.
